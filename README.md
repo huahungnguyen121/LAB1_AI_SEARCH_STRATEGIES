@@ -14,7 +14,7 @@
 ## Usage
 - On Windows using
 ```python main.py```
-- About input file's format (All are separated by a white space)
+- About the input file's format (All are separated by a white space)
 ```
 The number of vertexs
 Start vertex, destination vertex, algorithm
